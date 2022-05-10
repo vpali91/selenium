@@ -1,0 +1,8 @@
+Olvasd be a következő adatokat és rögzítsd egy formba!
+https://github.com/vpali91/c_sharp_progalap/blob/main/Asztali/PRACTICE/vizsga5/munka.txt
+
+A beolvasáshoz itt találsz segítséget:
+https://github.com/vpali91/progalap/tree/main/documentation/OOP/file_read_oop
+
+A google form-ba íráshoz itt találsz segítséget: 
+https://github.com/vpali91/selenium/blob/main/python/PRACTICE/google_form.py
